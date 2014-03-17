@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="org.simplewebstack.app.entity.Subscriber" table="subscriber">
+    <id name="id" type="java.lang.Long">
+       <column name="id" />
+       <generator class="sequence">
+         <param name="sequence">subscriber_id_seq</param>
+       </generator>
+     </id>
+     <property name="name" type="java.lang.String" column="name" />
+     <property name="age" type="java.lang.Integer" column="age" />
+     <property name="facebookId" type="java.lang.String" column="fbid" />
+  </class>
+</hibernate-mapping>
