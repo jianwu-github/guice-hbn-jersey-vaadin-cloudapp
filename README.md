@@ -1,5 +1,5 @@
-A Simple Open Source Java Cloud App Stack Demo Project with Guice 3.0, Hibernate 4, Jersey 1.x and Vaadin 7
-=============================================================================================================
+A Simple Open Source Java Cloud App Stack Demo Project with Guice, Hibernate, Jersey and Vaadin
+===============================================================================================
 
 This is a proof of concept demo cloud app project with Cloud App Stack Demo Project with Guice 3.0, Hibernate 4, Jersey 1.x and Vaadin 7. It has:<br>
 
