@@ -17,6 +17,7 @@ To run this demo project on your local machine with Tomcat 7 Server:<br>
 4. Deploy the built war file to a local Tomcat Server running on port 8080 <br>
 5. Accessing REST Subscriber Service at: http://localhost:8080/guice-hbn-jersey-vaadin/subscriber/1 <br>
 6. Accessing Subscriber Web UI at: http://localhost:8080/guice-hbn-jersey-vaadin/ui/ <br>
-
-
+<br>
+If you want to know more about this simple Open Source Java Cloud App Stack, you can check my presentation at Slideshare at:<br>
+   http://www.slideshare.net/jianwu/simple-opensource-javacloudappstack
 
